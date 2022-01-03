@@ -1,11 +1,7 @@
 # Wrap - Deep Dive - Flutter
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![Buy Flutter Courses](https://img.shields.io/static/v1?label=Buy&message=My%20Flutter%20Courses&color=5FB709&style=for-the-badge)][courses]
+
     
-[![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/wrap_widget_example.svg?style=social&label=Star)](https://github.com/JohannesMilke/wrap_widget_example) 
-[![GitHub forks](https://img.shields.io/github/forks/JohannesMilke/wrap_widget_example.svg?style=social&label=Fork)](https://github.com/JohannesMilke/wrap_widget_example/fork)
-[![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
+
 
 Learn more about the wrap widget which is like a multiline row or multiline column widget for your Flutter app.
 
